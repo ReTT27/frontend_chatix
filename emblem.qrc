@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/embleminput">
+        <file>logo-chatix2.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logo-chatix.png</file>
+        <file>send-message.png</file>
+        <file>door.png</file>
+    </qresource>
+</RCC>
